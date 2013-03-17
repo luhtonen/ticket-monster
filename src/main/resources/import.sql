@@ -1,2 +1,3 @@
 -- You can use this file to load seed data into the database using SQL statements
-insert into Member (id, name, email, phone_number) values (0, 'John Smith', 'john.smith@mailinator.com', '2125551212') 
+insert into Event (id, name, description, major, picture, version) values (1, 'Shane''s Sock Puppets', 'This critically acclaimed masterpiece...', true, 'http://dl.dropbox.com/u/65660684/640px-Carnival_Puppets.jpg', 1);
+insert into Event (id, name, description, major, picture, version) values (2, 'Rock concert of the decade', 'Get ready to rock...', true, 'http://dl.dropbox.com/u/65660684/640px-Weir%2C_Bob_(2007)_2.jpg', 1);

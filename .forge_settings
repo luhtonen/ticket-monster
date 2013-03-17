@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+<rootpath>"/rest"</rootpath>
+<rest>
+<applicationclass>
+<package>org.elu.jboss.tools.example.ticketmonster.rest</package>
+<name>/Users/luhtonen/Documents/Development/workspace-jboss/ticket-monster/src/main/java/org/elu/jboss/tools/example/ticketmonster/rest/JaxRsActivator.java</name>
+</applicationclass>
+</rest>
+</configuration>
