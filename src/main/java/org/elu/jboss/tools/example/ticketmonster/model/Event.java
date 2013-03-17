@@ -1,4 +1,4 @@
-package org.jboss.jdf.example.ticketmonster.model;
+package org.elu.jboss.tools.example.ticketmonster.model;
 
 import javax.persistence.Entity;
 import java.io.Serializable;
